@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CreditCardPayment
+comment0.text=\n\ Write\ a\ description\ of\ class\ CreditCardPayment\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CreditCardPayment()
+comment2.params=newPay\ newName\ newExpDate\ newCCNumber
+comment2.target=CreditCardPayment(double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=other
+comment3.target=CreditCardPayment(CreditCardPayment)
+comment4.params=
+comment4.target=java.lang.String\ paymentDetails()
+numComments=5

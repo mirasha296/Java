@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Name
+comment1.params=
+comment1.target=Name()
+comment2.params=first\ last
+comment2.target=Name(java.lang.String,\ java.lang.String)
+comment3.params=first\ initial\ last
+comment3.target=Name(java.lang.String,\ char,\ java.lang.String)
+comment4.params=
+comment4.target=void\ readName()
+comment5.params=
+comment5.target=void\ writeName()
+comment6.params=other
+comment6.target=boolean\ equals(Name)
+numComments=7

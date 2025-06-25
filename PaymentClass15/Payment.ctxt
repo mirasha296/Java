@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Payment
+comment0.text=\n\ Miriam\ Shamsiev\n\ Lab\ \#15\n\ \n\ Define\ a\ class\ named\ Payment\ that\ contains\ a\ instance\ variable\ of\ \n\ type\ double\ that\ stores\ the\ amount\ of\ the\ payment\ and\ appropriate\ \n\ accessor\ and\ mutator\ methods.\ Also\ create\ a\ method\ named\ \n\ paymentDetails\ that\ outputs\ an\ English\ sentence\ to\ describe\ the\ \n\ amount\ of\ the\ payment.\n\ \n\ Next,\ define\ a\ class\ named\ CashPayment\n\ that\ is\ derived\ from\ Payment.\ This\ class\ should\ redefine\n\ the\ paymentDetails\ methods\ to\ indicate\ that\ the\ payment\ is\ in\ cash.\ \n\ Include\ appropirate\ constructor(s).\n\ \n\ Define\ a\ class\ named\ CreditCardPayment\ that\ \n\ is\ derived\ from\ Payment.\ This\ class\ should\ contain\ member\ variables\ \n\ for\ the\ name\ on\ the\ card,\ expiration\ date\ and\ credit\ card\ number.\ \n\ Include\ appropriate\ constructor(s).\n\ \n\ Finally,\ redefine\ paymentDetails\ method\ to\ include\ all\n\ credit\ card\ information\ in\ the\ printout.\n\ Create\ a\ main\ method\ that\ creates\ at\ least\ two\ CashPayment\ and\ \n\ two\ CreditCardPayment\ objects\ with\ different\ values\ and\ calls\ \n\ paymentDetail\ for\ each.\n
+comment1.params=
+comment1.target=Payment()
+comment2.params=newPay
+comment2.target=Payment(double)
+comment3.params=other
+comment3.target=Payment(Payment)
+comment4.params=
+comment4.target=double\ getPay()
+comment5.params=newPay
+comment5.target=void\ setPayment(double)
+comment6.params=
+comment6.target=java.lang.String\ paymentDetails()
+numComments=7

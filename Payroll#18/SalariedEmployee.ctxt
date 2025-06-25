@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SalariedEmployee
+comment0.text=\n\ SalariedEmployee\ has\ one\ property,\ the\ annual\ salary.\ \ \n\ Its\ version\ of\ getPay\ returns\ weekly\ pay\ which\ is\ 1/52\ of\ annual\ salary.\n\ \n\ Both\ derived\ classes\ need\ their\ own\ version\ of\ equals\ and\ toString\n
+comment1.params=
+comment1.target=SalariedEmployee()
+comment2.params=newName\ newEmplID\ newJobTitle\ newSalary
+comment2.target=SalariedEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=other
+comment3.target=SalariedEmployee(SalariedEmployee)
+comment4.params=other
+comment4.target=boolean\ equals(SalariedEmployee)
+comment5.params=
+comment5.target=double\ getPay()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

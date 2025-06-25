@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KingOfStacks
+comment0.text=\n\ \n
+comment1.params=turns
+comment1.target=KingOfStacks(int)
+comment2.params=
+comment2.target=void\ playGame()
+comment3.params=
+comment3.target=void\ UpdateScore()
+comment4.params=
+comment4.target=void\ playRound()
+comment5.params=playerNum
+comment5.target=void\ playerTurn(int)
+comment6.params=
+comment6.target=void\ checkPop()
+numComments=7

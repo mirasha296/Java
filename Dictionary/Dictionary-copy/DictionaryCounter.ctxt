@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DictionaryCounter
+comment1.params=
+comment1.target=DictionaryCounter()
+comment2.params=filename
+comment2.target=void\ readFile(java.lang.String)
+comment3.params=
+comment3.target=int\ totalNumOfLetters()
+comment4.params=
+comment4.target=void\ contents()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Action
+comment0.text=\n\ Next,\ create\ three\ additional\ classes\ named\ Action,\n\ Comedy\ and\ Drama\ that\ are\ derived\ from\ Movie.\n
+comment1.params=MPAA\ ID\ MovTitle
+comment1.target=Action(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=LateFee
+comment2.target=double\ calcLateFees(int)
+comment3.params=MPAA\ ID\ MovTitle\ LateFee
+comment3.target=java.lang.String\ VideoRentalSummary(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+numComments=4

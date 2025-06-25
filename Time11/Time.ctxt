@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\n\ Time\ Class\n\n\ Miriam\ Shamsiev\n\ Mon\ Mar\ 6th,\ 2023\n\ \n
+comment1.params=
+comment1.target=Time()
+comment2.params=newHours
+comment2.target=Time(int)
+comment3.params=newHours\ newMinutes
+comment3.target=Time(int,\ int)
+comment4.params=newHours\ newMinutes\ newSeconds
+comment4.target=Time(int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ write()
+comment7.params=extraHours
+comment7.target=Time\ later(int)
+comment8.params=extraHours\ extraMinutes
+comment8.target=Time\ later(int,\ int)
+comment9.params=extraHours\ extraMinutes\ extraSeconds
+comment9.target=Time\ later(int,\ int,\ int)
+numComments=10

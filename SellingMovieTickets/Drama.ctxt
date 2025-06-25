@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Drama
+comment0.text=\n\ Write\ a\ description\ of\ class\ Drama\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=MPAA\ ID\ MovTitle
+comment1.target=Drama(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=LateFee
+comment2.target=double\ calcLateFees(int)
+comment3.params=MPAA\ ID\ MovTitle\ LateFee
+comment3.target=java.lang.String\ VideoRentalSummary(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+numComments=4

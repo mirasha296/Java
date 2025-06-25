@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DayException
+comment0.text=\n\ \ *\ Similarly,\ if\ the\ user\ enters\ anything\ other\ than\ a\ valid\ day\ number\ \n\ (integers\ 1\ through\ 28,\ 29,\ 30,\ or\ 31\ depending\ on\ the\ month\ and\ year),\ \n\ then\ your\ program\ will\ throw\ and\ catch\ a\ DayException\ and\ ask\ the\ user\ to\n\ re-enter\ the\ day.\n
+comment1.params=
+comment1.target=DayException()
+comment2.params=message
+comment2.target=DayException(java.lang.String)
+numComments=3
